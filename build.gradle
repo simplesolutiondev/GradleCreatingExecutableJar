@@ -11,6 +11,6 @@ repositories {
 
 jar {
     manifest {
-        attributes 'Main-Class': 'simplesolution.dev.BuildJarExample'
+        attributes 'Main-Class': 'simplesolution.dev.GradleCreatingExecutableJarExample'
     }
 }
